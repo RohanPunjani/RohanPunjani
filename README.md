@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/RohanPunjani"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/RohanPunjani?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/RohanPunjani"></a><img src="https://visitor-badge.glitch.me/badge?page_id=RohanPunjani.RohanPunjani" height="28px" width="105px" alt="Visitors Counter">
+  <a href="https://github.com/RohanPunjani"></a><img src="https://visitor-badge.glitch.me/badge?page_id=RohanPunjani" height="28px" width="105px" alt="Visitors Counter">
 </p>
 
 
