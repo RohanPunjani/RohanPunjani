@@ -14,9 +14,6 @@
 * 🎓 I'm a Computer Science student (graduating in June 2022)
 * ♔ I love solving problems and playing chess
 
-<p align="left">
-  <a href="http://rohan-punjani-portfolio.netlify.app"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-008888?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 ## 👨‍💻 Languages and Tools:
 
@@ -35,8 +32,6 @@
             <td><a href="#"><img alt="Python" title="Python" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
             </td>
-        </tr>
-        <tr>
             <td><a href="#"><img alt="C++" title="C++" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
@@ -45,8 +40,6 @@
                         src="https://user-images.githubusercontent.com/11306104/28999421-69312b92-7a03-11e7-9268-a1a8756b5442.png"/></a></td>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a></td>
-        </tr>
-        <tr>
             <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a></td>
             <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
@@ -55,8 +48,6 @@
                         src="https://img.icons8.com/ios-filled/50/000000/markdown.png" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a></td>
-        </tr>
-        <tr>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
             <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
